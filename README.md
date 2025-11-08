@@ -5,7 +5,7 @@ This project includes complete **user authentication (Sign Up / Sign In)**, **pr
 
 ---
 ### 🏠 Home Page
-![Home Page](./https://github.com/Itsyashasvibhati/IdeaFlow/blob/6393c48ae79e76f8ae46faecb176589dc1ed6d1c/Screenshot%202025-11-08%20210941.png)
+![Home Page](https://github.com/Itsyashasvibhati/IdeaFlow/blob/6393c48ae79e76f8ae46faecb176589dc1ed6d1c/Screenshot%202025-11-08%20210941.png)
 
 
 ## 🚀 Features
