@@ -4,6 +4,9 @@ A **fully functional LinkedIn Clone** built using the **MERN stack (MongoDB, Exp
 This project includes complete **user authentication (Sign Up / Sign In)**, **profile creation**, and **post management** features — allowing users to create, view, and share posts, just like LinkedIn.
 
 ---
+### 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
 
 ## 🚀 Features
 
@@ -11,14 +14,21 @@ This project includes complete **user authentication (Sign Up / Sign In)**, **pr
 - Secure **Sign Up** and **Sign In** using JWT (JSON Web Token).
 - Passwords are safely stored using **bcrypt encryption**.
 - Validation for unique email and required fields.
+- 
+### 🔐 Signup Page
+![Signup Page](./screenshots/signup.png)
 
 ### 🧾 User Profile
 - Each user automatically gets a personal **profile page** after signing up.
 - Displays user information and uploaded posts.
 
+### 👤 Profile Page
+![Profile Page](./screenshots/profile.png)
 ### 📝 Create Post
 - Users can **create posts** with content and optional image uploads.
 - Posts are displayed in a **feed** where other users can view them.
+- ### 📝 Create Post
+![Create Post](./screenshots/createpost.png)
 
 ### 📸 Responsive Design
 - Beautiful and **modern UI built with Tailwind CSS**.
