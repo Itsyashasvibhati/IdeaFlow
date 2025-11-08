@@ -34,7 +34,7 @@ This project includes complete **user authentication (Sign Up / Sign In)**, **pr
 - Beautiful and **modern UI built with Tailwind CSS**.
 - Fully responsive for mobile, tablet, and desktop.
 
-![Post](https://github.com/Itsyashasvibhati/IdeaFlow/blob/197e9f4c4a809c9916c559a2e3997633a383e8e4/Screenshot%202025-11-08%20211454.png)
+![Post](https://github.com/Itsyashasvibhati/IdeaFlow/blob/cad6520a28f213c7d2dc2294452ee44b7af1774f/Screenshot%202025-11-08%20211530.png)
 ### ⚙️ Routing & Navigation
 - Implemented using **React Router DOM**.
 - Protected routes for authenticated users only.
