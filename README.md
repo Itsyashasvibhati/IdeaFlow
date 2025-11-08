@@ -1,6 +1,5 @@
-# 🌐 LinkedIn Clone (MERN Stack)
-
-A **fully functional LinkedIn Clone** built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
+# 🌐 IdeaFlow (MERN Stack)
+ built using the **MERN stack (MongoDB, Express.js, React.js, Node.js)**.  
 This project includes complete **user authentication (Sign Up / Sign In)**, **profile creation**, and **post management** features — allowing users to create, view, and share posts, just like LinkedIn.
 
 ---
