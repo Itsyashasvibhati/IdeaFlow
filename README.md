@@ -28,12 +28,13 @@ This project includes complete **user authentication (Sign Up / Sign In)**, **pr
 - Users can **create posts** with content and optional image uploads.
 - Posts are displayed in a **feed** where other users can view them.
 - ### 📝 Create Post
-![Create Post](./screenshots/createpost.png)
+![Create Post](https://github.com/Itsyashasvibhati/IdeaFlow/blob/197e9f4c4a809c9916c559a2e3997633a383e8e4/Screenshot%202025-11-08%20211454.png)
 
 ### 📸 Responsive Design
 - Beautiful and **modern UI built with Tailwind CSS**.
 - Fully responsive for mobile, tablet, and desktop.
 
+![Post](https://github.com/Itsyashasvibhati/IdeaFlow/blob/197e9f4c4a809c9916c559a2e3997633a383e8e4/Screenshot%202025-11-08%20211454.png)
 ### ⚙️ Routing & Navigation
 - Implemented using **React Router DOM**.
 - Protected routes for authenticated users only.
