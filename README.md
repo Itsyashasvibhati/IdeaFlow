@@ -16,7 +16,7 @@ This project includes complete **user authentication (Sign Up / Sign In)**, **pr
 - Validation for unique email and required fields.
 - 
 ### 🔐 Signup Page
-![Signup Page](./screenshots/signup.png)
+![Signup Page](https://github.com/Itsyashasvibhati/IdeaFlow/blob/b2dd7b95a0c00bc60f39fa7d1b016d62ebe486a0/Screenshot%202025-11-08%20211121.png)
 
 ### 🧾 User Profile
 - Each user automatically gets a personal **profile page** after signing up.
