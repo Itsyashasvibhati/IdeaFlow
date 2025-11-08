@@ -1,0 +1,29 @@
+# Node modules (don’t upload dependencies)
+node_modules/
+
+# Environment variables (API keys, DB URIs, secrets)
+.env
+
+# Log files
+logs
+*.log
+npm-debug.log*
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Build and dist folders
+dist/
+build/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Coverage / test output
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
