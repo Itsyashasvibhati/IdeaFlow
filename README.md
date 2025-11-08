@@ -23,7 +23,7 @@ This project includes complete **user authentication (Sign Up / Sign In)**, **pr
 - Displays user information and uploaded posts.
 
 ### 👤 Profile Page
-![Profile Page](./screenshots/profile.png)
+![Profile Page](https://github.com/Itsyashasvibhati/IdeaFlow/blob/09438b18901162040590258353d4a184facfc8f9/Screenshot%202025-11-08%20211130.png)
 ### 📝 Create Post
 - Users can **create posts** with content and optional image uploads.
 - Posts are displayed in a **feed** where other users can view them.
